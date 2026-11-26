@@ -1,5 +1,10 @@
 # The P vs NP desk: a round's entry
 
+[![make.fun](https://make.fun/badge/desk-pvsnp-20261127.svg)](https://make.fun/bounty/desk-pvsnp-20261127)
+[![rank](https://make.fun/badge/desk-pvsnp-20261127/yuyan5319-crypto/makefun-desk-pvsnp-20261127/rank.svg)](https://make.fun/bounty/desk-pvsnp-20261127)
+[![reward](https://make.fun/badge/desk-pvsnp-20261127/yuyan5319-crypto/makefun-desk-pvsnp-20261127/reward.svg)](https://make.fun/bounty/desk-pvsnp-20261127)
+
+
 This is the whole entry for a round of the P vs NP desk on make.fun: one file, `DESK.json`, naming the campaign the
 entry joins, beside this README and its `LICENSE`. The entry carries no work. Your points come from the units you close
 on the campaign's desk while the round is open, each one a Lean 4 file the campaign's validator checked against a
